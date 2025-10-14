@@ -4,7 +4,7 @@
 <h3 align="center">💡 Heróis dos dados unidos pela clareza e precisão 💡</h3>
 
 <p align="center">
-  <img src="capa-podcast.jpg" alt="capa-podcast" width="300px" style="border-radius: 15px;"/>
+  <img src="Liga-da-Visualizacao-Podcast/capa-podcast.jpg" alt="Banner do Podcast Liga da Visualização" width="100%" style="border-radius: 10px;"/>
 </p>
 
 ---
