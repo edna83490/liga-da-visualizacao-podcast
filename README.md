@@ -27,8 +27,9 @@ Um projeto que une **Power BI** e **Inteligência Artificial** para ensinar de f
 ---
 
 ## 🎙️ Episódio 1 – *Os poderes secretos da DAX*
+
 📄 [Ver roteiro completo](Prompt%20podcastEDNA.docx)  
-🎧 [Ouvir o áudio](episodio1.mp3)
+🎧 [🎵 Acesse o áudio e os arquivos do episódio no Google Drive](https://drive.google.com/drive/folders/1wk1RR8TdWgWM4UDn0nIlb7ycXa8q4JPf?usp=sharing)
 
 > Neste episódio, Edna Silva revela:
 > - 🌀 O poder da função **CALCULATE**, o “Doutor Estranho” do Power BI  
