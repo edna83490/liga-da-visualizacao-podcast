@@ -7,7 +7,7 @@
 ---
 
 ## 🧠 Sobre o Projeto
-Este é o repositório oficial do podcast **Liga da Visualização**, criado por **Edna Silva**.  
+Este é o repositório oficial do podcast **Liga da Visualização**, criado por **Edna Silva** durante o curso da DIO - Criando um Podcast com IAS Generativas. 
 Um projeto que une **Power BI** e **Inteligência Artificial** para ensinar de forma leve e criativa sobre o mundo dos dados.
 
 🎯 **Objetivo:** Inspirar iniciantes a explorar o universo da visualização e análise de dados, mostrando como a IA pode apoiar todo o processo de criação.
@@ -48,8 +48,6 @@ Um projeto que une **Power BI** e **Inteligência Artificial** para ensinar de f
 Criadora do podcast *Liga da Visualização*  
 > “Eu sou Edna Silva, e esse foi o PowerQuest dessa semana!”
 
-📍 Itapetininga - SP  
-🌐 [Facebook](https://www.facebook.com/edna.silva.710667)
 
 ---
 
