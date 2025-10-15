@@ -17,14 +17,13 @@ Um projeto que une **Power BI** e **Inteligência Artificial** para ensinar de f
 🎯 **Objetivo:** Inspirar iniciantes a explorar o universo da visualização e análise de dados, mostrando como a IA pode apoiar todo o processo de criação.
 
 ---
+## 🧩 Ferramentas Utilizadas
 
-## 🧩 Tecnologias Utilizadas
-| Ferramenta | Função |
-|-------------|--------|
-| 💬 **ChatGPT** | Criação de roteiros e prompts inteligentes |
-| 🔊 **FreeReadText** | Geração de voz do podcast |
-| 🎧 **CapCut** | Edição e sonorização do áudio |
-| 🎨 **Leonardo (Imagem)** | Criação da capa ilustrada do episódio |
+🔹 **[ChatGPT](https://chat.openai.com/)** — geração de roteiro e prompts de criação.  
+🔹 **[Leonardo AI](https://leonardo.ai/)** — criação e edição da capa ilustrada.  
+🔹 **[FreeReadText](https://freereadtext.com/en/text-to-speech/portuguese-brazil)** — conversão de texto em narração de voz natural.  
+🔹 **[CapCut](https://www.capcut.com/)** — edição e sonorização final do episódio.
+
 
 ---
 
