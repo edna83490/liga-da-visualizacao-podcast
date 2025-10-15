@@ -24,7 +24,7 @@ Um projeto que une **Power BI** e **Inteligência Artificial** para ensinar de f
 | 💬 **ChatGPT** | Criação de roteiros e prompts inteligentes |
 | 🔊 **FreeReadText** | Geração de voz do podcast |
 | 🎧 **CapCut** | Edição e sonorização do áudio |
-| 🎨 **GPT (Imagem)** | Criação da capa ilustrada do episódio |
+| 🎨 **Leonardo (Imagem)** | Criação da capa ilustrada do episódio |
 
 ---
 
