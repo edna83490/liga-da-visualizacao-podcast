@@ -1,6 +1,7 @@
 <p align="center">
-  <img src="liga-da-visualizacao-podcast/capa-podcast.jpg" alt="Banner do Podcast Liga da Visualização" width="100%" style="border-radius: 10px;"/>
+  <img src="capa-podcast.jpg" alt="Banner do Podcast Liga da Visualização" width="100%" style="border-radius: 10px;"/>
 </p>
+
 
 
 <h1 align="center">🎧 Liga da Visualização</h1>
